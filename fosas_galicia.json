@@ -1,0 +1,2963 @@
+[
+    {
+        "id": 1543,
+        "point": {
+            "lng": -8.0710984,
+            "lat": 43.4268409
+        },
+        "category": "verde",
+        "name": "A Capela (A Capela)"
+    },
+    {
+        "id": 1551,
+        "point": {
+            "lng": -8.5327732,
+            "lat": 42.178209
+        },
+        "category": "verde",
+        "name": "Areas (Ponteareas)"
+    },
+    {
+        "id": 1545,
+        "point": {
+            "lng": -7.8476715,
+            "lat": 43.4517973
+        },
+        "category": "verde",
+        "name": "As Pontes de García Rodríguez (As Pontes de García Rodríguez)"
+    },
+    {
+        "id": 1557,
+        "point": {
+            "lng": -8.8536072,
+            "lat": 42.1165614
+        },
+        "category": "verde",
+        "name": "Baiona (Baiona)"
+    },
+    {
+        "id": 1552,
+        "point": {
+            "lng": -8.7659082,
+            "lat": 42.5953513
+        },
+        "category": "verde",
+        "name": "Cornazo (Vilagarcía de Arousa)"
+    },
+    {
+        "id": 1556,
+        "point": {
+            "lng": -7.1066669,
+            "lat": 42.2079736
+        },
+        "category": "verde",
+        "name": "Fornelos de Cova (Viana do Bolo)"
+    },
+    {
+        "id": 110,
+        "point": {
+            "lng": -8.1450235,
+            "lat": 43.6150175
+        },
+        "category": "azul",
+        "name": "Fosa da praia de Frouxeira (Valdoviño)"
+    },
+    {
+        "id": 871,
+        "point": {
+            "lng": -7.42577,
+            "lat": 41.9929028
+        },
+        "category": "default",
+        "name": "Fosa de Campobecerros (Castrelo do Val)"
+    },
+    {
+        "id": 98,
+        "point": {
+            "lng": -7.1339812,
+            "lat": 42.4595263
+        },
+        "category": "vermello",
+        "name": "Fosa de Cereixido (Quiroga)"
+    },
+    {
+        "id": 100,
+        "point": {
+            "lng": -7.6361088,
+            "lat": 43.5567763
+        },
+        "category": "azul",
+        "name": "Fosa de Chao-Candedo (Ourol)"
+    },
+    {
+        "id": 1542,
+        "point": {
+            "lng": -8.15395,
+            "lat": 43.344613
+        },
+        "category": "vermello",
+        "name": "Fosa de Grandal (Vilarmaior)"
+    },
+    {
+        "id": 107,
+        "point": {
+            "lng": -8.6444702,
+            "lat": 42.1998459
+        },
+        "category": "azul",
+        "name": "Fosa de Mos (Mos)"
+    },
+    {
+        "id": 99,
+        "point": {
+            "lng": -6.9801221,
+            "lat": 43.1149886
+        },
+        "category": "vermello",
+        "name": "Fosa de O Acevo (A Fonsagrada)"
+    },
+    {
+        "id": 117,
+        "point": {
+            "lng": -7.8646408,
+            "lat": 42.3400086
+        },
+        "category": "azul",
+        "name": "Fosa de Ourense"
+    },
+    {
+        "id": 111,
+        "point": {
+            "lng": -7.1724318,
+            "lat": 42.0163132
+        },
+        "category": "azul",
+        "name": "Fosa de Poula do Martiño (A Gudiña)"
+    },
+    {
+        "id": 114,
+        "point": {
+            "lng": -7.2890018,
+            "lat": 42.4661888
+        },
+        "category": "azul",
+        "name": "Fosa de Remeite (Ribas de Sil)"
+    },
+    {
+        "id": 106,
+        "point": {
+            "lng": -8.5811087,
+            "lat": 42.4687016
+        },
+        "category": "azul",
+        "name": "Fosa de San Andrés de Xeve (Pontevedra)"
+    },
+    {
+        "id": 102,
+        "point": {
+            "lng": -7.6155181,
+            "lat": 42.8077541
+        },
+        "category": "vermello",
+        "name": "Fosa de San Mamede de Río (Portomarín)"
+    },
+    {
+        "id": 108,
+        "point": {
+            "lng": -8.6242676,
+            "lat": 42.1430416
+        },
+        "category": "azul",
+        "name": "Fosa de San Salvador de Budiño (O Porriño)"
+    },
+    {
+        "id": 103,
+        "point": {
+            "lng": -7.1558762,
+            "lat": 42.6422933
+        },
+        "category": "azul",
+        "name": "Fosa de Seoane do Caurel (Folgoso do Courel)"
+    },
+    {
+        "id": 113,
+        "point": {
+            "lng": -6.984945,
+            "lat": 42.3888259
+        },
+        "category": "azul",
+        "name": "Fosa de Soulecín (O Barco de Valdeorras)"
+    },
+    {
+        "id": 101,
+        "point": {
+            "lng": -7.6155181,
+            "lat": 42.8077541
+        },
+        "category": "vermello",
+        "name": "Fosa de Torrentes-Cortapezas (Portomarín)"
+    },
+    {
+        "id": 109,
+        "point": {
+            "lng": -8.3938806,
+            "lat": 42.9059083
+        },
+        "category": "vermello",
+        "name": "Fosa do Amenal (O Pino)"
+    },
+    {
+        "id": 1539,
+        "point": {
+            "lng": -8.3340987,
+            "lat": 42.9356635
+        },
+        "category": "verde",
+        "name": "Fosa do Amenal (O Pino)"
+    },
+    {
+        "id": 95,
+        "point": {
+            "lng": -8.6469269,
+            "lat": 42.524748
+        },
+        "category": "vermello",
+        "name": "Fosa do Curro (Barro)"
+    },
+    {
+        "id": 112,
+        "point": {
+            "lng": -7.42577,
+            "lat": 41.9929028
+        },
+        "category": "azul",
+        "name": "Fosa do Lombo do Barco (Castrelo do Val)"
+    },
+    {
+        "id": 104,
+        "point": {
+            "lng": -7.4793272,
+            "lat": 42.6262204
+        },
+        "category": "azul",
+        "name": "Fosa en O Incio (O Incio)"
+    },
+    {
+        "id": 105,
+        "point": {
+            "lng": -8.1970024,
+            "lat": 42.2144066
+        },
+        "category": "azul",
+        "name": "Fosas de Filgueiras (Crecente)"
+    },
+    {
+        "id": 1541,
+        "point": {
+            "lng": -8.2230584,
+            "lat": 42.1537374
+        },
+        "category": "vermello",
+        "name": "Fosas de Filgueiras (Crecente)"
+    },
+    {
+        "id": 1555,
+        "point": {
+            "lng": -8.1447804,
+            "lat": 41.9374531
+        },
+        "category": "verde",
+        "name": "Galez (Entrimo)"
+    },
+    {
+        "id": 1546,
+        "point": {
+            "lng": -8.1135539,
+            "lat": 43.3753049
+        },
+        "category": "verde",
+        "name": "Grandal (Vilarmaior)"
+    },
+    {
+        "id": 1553,
+        "point": {
+            "lng": -8.4548628,
+            "lat": 42.2327102
+        },
+        "category": "verde",
+        "name": "Mondariz (Mondariz)"
+    },
+    {
+        "id": 1547,
+        "point": {
+            "lng": -7.3732655,
+            "lat": 43.4575049
+        },
+        "category": "verde",
+        "name": "Mondoñedo (Mondoñedo)"
+    },
+    {
+        "id": 1554,
+        "point": {
+            "lng": -7.3732655,
+            "lat": 43.4575049
+        },
+        "category": "verde",
+        "name": "Mondoñedo (Mondoñedo)"
+    },
+    {
+        "id": 97,
+        "point": {
+            "lng": -7.6729202,
+            "lat": 43.7329645
+        },
+        "category": "vermello",
+        "name": "Monte A Medela (O Vicedo)"
+    },
+    {
+        "id": 1544,
+        "point": {
+            "lng": -8.6353399,
+            "lat": 42.8491666
+        },
+        "category": "verde",
+        "name": "Ortoño (Ames)"
+    },
+    {
+        "id": 1548,
+        "point": {
+            "lng": -7.3732655,
+            "lat": 43.4575049
+        },
+        "category": "verde",
+        "name": "San Pedro de Argomoso (Mondoñedo)"
+    },
+    {
+        "id": 1550,
+        "point": {
+            "lng": -8.836373,
+            "lat": 41.9372462
+        },
+        "category": "verde",
+        "name": "San Xián (O Rosal)"
+    },
+    {
+        "id": 1549,
+        "point": {
+            "lng": -7.9119663,
+            "lat": 42.1563803
+        },
+        "category": "verde",
+        "name": "Sorga (A Bola)"
+    },
+    {
+        "id": 1558,
+        "point": {
+            "lng": -8.5062007,
+            "lat": 42.4894695
+        },
+        "category": "verde",
+        "name": "Tenorio (Cotobade)"
+    },
+    {
+        "id": 1559,
+        "point": {
+            "lng": -8.5569243,
+            "lat": 42.1818182
+        },
+        "category": "verde",
+        "name": "Xinzo (Ponteareas)"
+    },
+    {
+        "id": 1543,
+        "point": {
+            "lng": -8.0710984,
+            "lat": 43.4268409
+        },
+        "category": "verde",
+        "name": "A Capela (A Capela)"
+    },
+    {
+        "id": 1551,
+        "point": {
+            "lng": -8.5327732,
+            "lat": 42.178209
+        },
+        "category": "verde",
+        "name": "Areas (Ponteareas)"
+    },
+    {
+        "id": 1545,
+        "point": {
+            "lng": -7.8476715,
+            "lat": 43.4517973
+        },
+        "category": "verde",
+        "name": "As Pontes de García Rodríguez (As Pontes de García Rodríguez)"
+    },
+    {
+        "id": 1557,
+        "point": {
+            "lng": -8.8536072,
+            "lat": 42.1165614
+        },
+        "category": "verde",
+        "name": "Baiona (Baiona)"
+    },
+    {
+        "id": 1552,
+        "point": {
+            "lng": -8.7659082,
+            "lat": 42.5953513
+        },
+        "category": "verde",
+        "name": "Cornazo (Vilagarcía de Arousa)"
+    },
+    {
+        "id": 1556,
+        "point": {
+            "lng": -7.1066669,
+            "lat": 42.2079736
+        },
+        "category": "verde",
+        "name": "Fornelos de Cova (Viana do Bolo)"
+    },
+    {
+        "id": 110,
+        "point": {
+            "lng": -8.1450235,
+            "lat": 43.6150175
+        },
+        "category": "azul",
+        "name": "Fosa da praia de Frouxeira (Valdoviño)"
+    },
+    {
+        "id": 871,
+        "point": {
+            "lng": -7.42577,
+            "lat": 41.9929028
+        },
+        "category": "default",
+        "name": "Fosa de Campobecerros (Castrelo do Val)"
+    },
+    {
+        "id": 98,
+        "point": {
+            "lng": -7.1339812,
+            "lat": 42.4595263
+        },
+        "category": "vermello",
+        "name": "Fosa de Cereixido (Quiroga)"
+    },
+    {
+        "id": 100,
+        "point": {
+            "lng": -7.6361088,
+            "lat": 43.5567763
+        },
+        "category": "azul",
+        "name": "Fosa de Chao-Candedo (Ourol)"
+    },
+    {
+        "id": 1542,
+        "point": {
+            "lng": -8.15395,
+            "lat": 43.344613
+        },
+        "category": "vermello",
+        "name": "Fosa de Grandal (Vilarmaior)"
+    },
+    {
+        "id": 107,
+        "point": {
+            "lng": -8.6444702,
+            "lat": 42.1998459
+        },
+        "category": "azul",
+        "name": "Fosa de Mos (Mos)"
+    },
+    {
+        "id": 99,
+        "point": {
+            "lng": -6.9801221,
+            "lat": 43.1149886
+        },
+        "category": "vermello",
+        "name": "Fosa de O Acevo (A Fonsagrada)"
+    },
+    {
+        "id": 117,
+        "point": {
+            "lng": -7.8646408,
+            "lat": 42.3400086
+        },
+        "category": "azul",
+        "name": "Fosa de Ourense"
+    },
+    {
+        "id": 111,
+        "point": {
+            "lng": -7.1724318,
+            "lat": 42.0163132
+        },
+        "category": "azul",
+        "name": "Fosa de Poula do Martiño (A Gudiña)"
+    },
+    {
+        "id": 114,
+        "point": {
+            "lng": -7.2890018,
+            "lat": 42.4661888
+        },
+        "category": "azul",
+        "name": "Fosa de Remeite (Ribas de Sil)"
+    },
+    {
+        "id": 106,
+        "point": {
+            "lng": -8.5811087,
+            "lat": 42.4687016
+        },
+        "category": "azul",
+        "name": "Fosa de San Andrés de Xeve (Pontevedra)"
+    },
+    {
+        "id": 102,
+        "point": {
+            "lng": -7.6155181,
+            "lat": 42.8077541
+        },
+        "category": "vermello",
+        "name": "Fosa de San Mamede de Río (Portomarín)"
+    },
+    {
+        "id": 108,
+        "point": {
+            "lng": -8.6242676,
+            "lat": 42.1430416
+        },
+        "category": "azul",
+        "name": "Fosa de San Salvador de Budiño (O Porriño)"
+    },
+    {
+        "id": 103,
+        "point": {
+            "lng": -7.1558762,
+            "lat": 42.6422933
+        },
+        "category": "azul",
+        "name": "Fosa de Seoane do Caurel (Folgoso do Courel)"
+    },
+    {
+        "id": 113,
+        "point": {
+            "lng": -6.984945,
+            "lat": 42.3888259
+        },
+        "category": "azul",
+        "name": "Fosa de Soulecín (O Barco de Valdeorras)"
+    },
+    {
+        "id": 101,
+        "point": {
+            "lng": -7.6155181,
+            "lat": 42.8077541
+        },
+        "category": "vermello",
+        "name": "Fosa de Torrentes-Cortapezas (Portomarín)"
+    },
+    {
+        "id": 109,
+        "point": {
+            "lng": -8.3938806,
+            "lat": 42.9059083
+        },
+        "category": "vermello",
+        "name": "Fosa do Amenal (O Pino)"
+    },
+    {
+        "id": 1539,
+        "point": {
+            "lng": -8.3340987,
+            "lat": 42.9356635
+        },
+        "category": "verde",
+        "name": "Fosa do Amenal (O Pino)"
+    },
+    {
+        "id": 95,
+        "point": {
+            "lng": -8.6469269,
+            "lat": 42.524748
+        },
+        "category": "vermello",
+        "name": "Fosa do Curro (Barro)"
+    },
+    {
+        "id": 112,
+        "point": {
+            "lng": -7.42577,
+            "lat": 41.9929028
+        },
+        "category": "azul",
+        "name": "Fosa do Lombo do Barco (Castrelo do Val)"
+    },
+    {
+        "id": 104,
+        "point": {
+            "lng": -7.4793272,
+            "lat": 42.6262204
+        },
+        "category": "azul",
+        "name": "Fosa en O Incio (O Incio)"
+    },
+    {
+        "id": 105,
+        "point": {
+            "lng": -8.1970024,
+            "lat": 42.2144066
+        },
+        "category": "azul",
+        "name": "Fosas de Filgueiras (Crecente)"
+    },
+    {
+        "id": 1541,
+        "point": {
+            "lng": -8.2230584,
+            "lat": 42.1537374
+        },
+        "category": "vermello",
+        "name": "Fosas de Filgueiras (Crecente)"
+    },
+    {
+        "id": 1555,
+        "point": {
+            "lng": -8.1447804,
+            "lat": 41.9374531
+        },
+        "category": "verde",
+        "name": "Galez (Entrimo)"
+    },
+    {
+        "id": 1546,
+        "point": {
+            "lng": -8.1135539,
+            "lat": 43.3753049
+        },
+        "category": "verde",
+        "name": "Grandal (Vilarmaior)"
+    },
+    {
+        "id": 1553,
+        "point": {
+            "lng": -8.4548628,
+            "lat": 42.2327102
+        },
+        "category": "verde",
+        "name": "Mondariz (Mondariz)"
+    },
+    {
+        "id": 1547,
+        "point": {
+            "lng": -7.3732655,
+            "lat": 43.4575049
+        },
+        "category": "verde",
+        "name": "Mondoñedo (Mondoñedo)"
+    },
+    {
+        "id": 1554,
+        "point": {
+            "lng": -7.3732655,
+            "lat": 43.4575049
+        },
+        "category": "verde",
+        "name": "Mondoñedo (Mondoñedo)"
+    },
+    {
+        "id": 97,
+        "point": {
+            "lng": -7.6729202,
+            "lat": 43.7329645
+        },
+        "category": "vermello",
+        "name": "Monte A Medela (O Vicedo)"
+    },
+    {
+        "id": 1544,
+        "point": {
+            "lng": -8.6353399,
+            "lat": 42.8491666
+        },
+        "category": "verde",
+        "name": "Ortoño (Ames)"
+    },
+    {
+        "id": 1548,
+        "point": {
+            "lng": -7.3732655,
+            "lat": 43.4575049
+        },
+        "category": "verde",
+        "name": "San Pedro de Argomoso (Mondoñedo)"
+    },
+    {
+        "id": 1550,
+        "point": {
+            "lng": -8.836373,
+            "lat": 41.9372462
+        },
+        "category": "verde",
+        "name": "San Xián (O Rosal)"
+    },
+    {
+        "id": 1549,
+        "point": {
+            "lng": -7.9119663,
+            "lat": 42.1563803
+        },
+        "category": "verde",
+        "name": "Sorga (A Bola)"
+    },
+    {
+        "id": 1558,
+        "point": {
+            "lng": -8.5062007,
+            "lat": 42.4894695
+        },
+        "category": "verde",
+        "name": "Tenorio (Cotobade)"
+    },
+    {
+        "id": 1559,
+        "point": {
+            "lng": -8.5569243,
+            "lat": 42.1818182
+        },
+        "category": "verde",
+        "name": "Xinzo (Ponteareas)"
+    },
+    {
+        "id": 1543,
+        "point": {
+            "lng": -8.0710984,
+            "lat": 43.4268409
+        },
+        "category": "verde",
+        "name": "A Capela (A Capela)"
+    },
+    {
+        "id": 1543,
+        "point": {
+            "lng": -8.0710984,
+            "lat": 43.4268409
+        },
+        "category": "verde",
+        "name": "A Capela (A Capela)"
+    },
+    {
+        "id": 1551,
+        "point": {
+            "lng": -8.5327732,
+            "lat": 42.178209
+        },
+        "category": "verde",
+        "name": "Areas (Ponteareas)"
+    },
+    {
+        "id": 1545,
+        "point": {
+            "lng": -7.8476715,
+            "lat": 43.4517973
+        },
+        "category": "verde",
+        "name": "As Pontes de García Rodríguez (As Pontes de García Rodríguez)"
+    },
+    {
+        "id": 1557,
+        "point": {
+            "lng": -8.8536072,
+            "lat": 42.1165614
+        },
+        "category": "verde",
+        "name": "Baiona (Baiona)"
+    },
+    {
+        "id": 1552,
+        "point": {
+            "lng": -8.7659082,
+            "lat": 42.5953513
+        },
+        "category": "verde",
+        "name": "Cornazo (Vilagarcía de Arousa)"
+    },
+    {
+        "id": 1556,
+        "point": {
+            "lng": -7.1066669,
+            "lat": 42.2079736
+        },
+        "category": "verde",
+        "name": "Fornelos de Cova (Viana do Bolo)"
+    },
+    {
+        "id": 110,
+        "point": {
+            "lng": -8.1450235,
+            "lat": 43.6150175
+        },
+        "category": "azul",
+        "name": "Fosa da praia de Frouxeira (Valdoviño)"
+    },
+    {
+        "id": 871,
+        "point": {
+            "lng": -7.42577,
+            "lat": 41.9929028
+        },
+        "category": "default",
+        "name": "Fosa de Campobecerros (Castrelo do Val)"
+    },
+    {
+        "id": 98,
+        "point": {
+            "lng": -7.1339812,
+            "lat": 42.4595263
+        },
+        "category": "vermello",
+        "name": "Fosa de Cereixido (Quiroga)"
+    },
+    {
+        "id": 100,
+        "point": {
+            "lng": -7.6361088,
+            "lat": 43.5567763
+        },
+        "category": "azul",
+        "name": "Fosa de Chao-Candedo (Ourol)"
+    },
+    {
+        "id": 1542,
+        "point": {
+            "lng": -8.15395,
+            "lat": 43.344613
+        },
+        "category": "vermello",
+        "name": "Fosa de Grandal (Vilarmaior)"
+    },
+    {
+        "id": 107,
+        "point": {
+            "lng": -8.6444702,
+            "lat": 42.1998459
+        },
+        "category": "azul",
+        "name": "Fosa de Mos (Mos)"
+    },
+    {
+        "id": 99,
+        "point": {
+            "lng": -6.9801221,
+            "lat": 43.1149886
+        },
+        "category": "vermello",
+        "name": "Fosa de O Acevo (A Fonsagrada)"
+    },
+    {
+        "id": 117,
+        "point": {
+            "lng": -7.8646408,
+            "lat": 42.3400086
+        },
+        "category": "azul",
+        "name": "Fosa de Ourense"
+    },
+    {
+        "id": 111,
+        "point": {
+            "lng": -7.1724318,
+            "lat": 42.0163132
+        },
+        "category": "azul",
+        "name": "Fosa de Poula do Martiño (A Gudiña)"
+    },
+    {
+        "id": 114,
+        "point": {
+            "lng": -7.2890018,
+            "lat": 42.4661888
+        },
+        "category": "azul",
+        "name": "Fosa de Remeite (Ribas de Sil)"
+    },
+    {
+        "id": 106,
+        "point": {
+            "lng": -8.5811087,
+            "lat": 42.4687016
+        },
+        "category": "azul",
+        "name": "Fosa de San Andrés de Xeve (Pontevedra)"
+    },
+    {
+        "id": 102,
+        "point": {
+            "lng": -7.6155181,
+            "lat": 42.8077541
+        },
+        "category": "vermello",
+        "name": "Fosa de San Mamede de Río (Portomarín)"
+    },
+    {
+        "id": 108,
+        "point": {
+            "lng": -8.6242676,
+            "lat": 42.1430416
+        },
+        "category": "azul",
+        "name": "Fosa de San Salvador de Budiño (O Porriño)"
+    },
+    {
+        "id": 103,
+        "point": {
+            "lng": -7.1558762,
+            "lat": 42.6422933
+        },
+        "category": "azul",
+        "name": "Fosa de Seoane do Caurel (Folgoso do Courel)"
+    },
+    {
+        "id": 113,
+        "point": {
+            "lng": -6.984945,
+            "lat": 42.3888259
+        },
+        "category": "azul",
+        "name": "Fosa de Soulecín (O Barco de Valdeorras)"
+    },
+    {
+        "id": 101,
+        "point": {
+            "lng": -7.6155181,
+            "lat": 42.8077541
+        },
+        "category": "vermello",
+        "name": "Fosa de Torrentes-Cortapezas (Portomarín)"
+    },
+    {
+        "id": 109,
+        "point": {
+            "lng": -8.3938806,
+            "lat": 42.9059083
+        },
+        "category": "vermello",
+        "name": "Fosa do Amenal (O Pino)"
+    },
+    {
+        "id": 1539,
+        "point": {
+            "lng": -8.3340987,
+            "lat": 42.9356635
+        },
+        "category": "verde",
+        "name": "Fosa do Amenal (O Pino)"
+    },
+    {
+        "id": 95,
+        "point": {
+            "lng": -8.6469269,
+            "lat": 42.524748
+        },
+        "category": "vermello",
+        "name": "Fosa do Curro (Barro)"
+    },
+    {
+        "id": 112,
+        "point": {
+            "lng": -7.42577,
+            "lat": 41.9929028
+        },
+        "category": "azul",
+        "name": "Fosa do Lombo do Barco (Castrelo do Val)"
+    },
+    {
+        "id": 104,
+        "point": {
+            "lng": -7.4793272,
+            "lat": 42.6262204
+        },
+        "category": "azul",
+        "name": "Fosa en O Incio (O Incio)"
+    },
+    {
+        "id": 105,
+        "point": {
+            "lng": -8.1970024,
+            "lat": 42.2144066
+        },
+        "category": "azul",
+        "name": "Fosas de Filgueiras (Crecente)"
+    },
+    {
+        "id": 1541,
+        "point": {
+            "lng": -8.2230584,
+            "lat": 42.1537374
+        },
+        "category": "vermello",
+        "name": "Fosas de Filgueiras (Crecente)"
+    },
+    {
+        "id": 1555,
+        "point": {
+            "lng": -8.1447804,
+            "lat": 41.9374531
+        },
+        "category": "verde",
+        "name": "Galez (Entrimo)"
+    },
+    {
+        "id": 1546,
+        "point": {
+            "lng": -8.1135539,
+            "lat": 43.3753049
+        },
+        "category": "verde",
+        "name": "Grandal (Vilarmaior)"
+    },
+    {
+        "id": 1553,
+        "point": {
+            "lng": -8.4548628,
+            "lat": 42.2327102
+        },
+        "category": "verde",
+        "name": "Mondariz (Mondariz)"
+    },
+    {
+        "id": 1547,
+        "point": {
+            "lng": -7.3732655,
+            "lat": 43.4575049
+        },
+        "category": "verde",
+        "name": "Mondoñedo (Mondoñedo)"
+    },
+    {
+        "id": 1554,
+        "point": {
+            "lng": -7.3732655,
+            "lat": 43.4575049
+        },
+        "category": "verde",
+        "name": "Mondoñedo (Mondoñedo)"
+    },
+    {
+        "id": 97,
+        "point": {
+            "lng": -7.6729202,
+            "lat": 43.7329645
+        },
+        "category": "vermello",
+        "name": "Monte A Medela (O Vicedo)"
+    },
+    {
+        "id": 1544,
+        "point": {
+            "lng": -8.6353399,
+            "lat": 42.8491666
+        },
+        "category": "verde",
+        "name": "Ortoño (Ames)"
+    },
+    {
+        "id": 1548,
+        "point": {
+            "lng": -7.3732655,
+            "lat": 43.4575049
+        },
+        "category": "verde",
+        "name": "San Pedro de Argomoso (Mondoñedo)"
+    },
+    {
+        "id": 1550,
+        "point": {
+            "lng": -8.836373,
+            "lat": 41.9372462
+        },
+        "category": "verde",
+        "name": "San Xián (O Rosal)"
+    },
+    {
+        "id": 1549,
+        "point": {
+            "lng": -7.9119663,
+            "lat": 42.1563803
+        },
+        "category": "verde",
+        "name": "Sorga (A Bola)"
+    },
+    {
+        "id": 1558,
+        "point": {
+            "lng": -8.5062007,
+            "lat": 42.4894695
+        },
+        "category": "verde",
+        "name": "Tenorio (Cotobade)"
+    },
+    {
+        "id": 1559,
+        "point": {
+            "lng": -8.5569243,
+            "lat": 42.1818182
+        },
+        "category": "verde",
+        "name": "Xinzo (Ponteareas)"
+    },
+    {
+        "id": 1543,
+        "point": {
+            "lng": -8.0710984,
+            "lat": 43.4268409
+        },
+        "category": "verde",
+        "name": "A Capela (A Capela)"
+    },
+    {
+        "id": 1551,
+        "point": {
+            "lng": -8.5327732,
+            "lat": 42.178209
+        },
+        "category": "verde",
+        "name": "Areas (Ponteareas)"
+    },
+    {
+        "id": 1545,
+        "point": {
+            "lng": -7.8476715,
+            "lat": 43.4517973
+        },
+        "category": "verde",
+        "name": "As Pontes de García Rodríguez (As Pontes de García Rodríguez)"
+    },
+    {
+        "id": 1557,
+        "point": {
+            "lng": -8.8536072,
+            "lat": 42.1165614
+        },
+        "category": "verde",
+        "name": "Baiona (Baiona)"
+    },
+    {
+        "id": 1552,
+        "point": {
+            "lng": -8.7659082,
+            "lat": 42.5953513
+        },
+        "category": "verde",
+        "name": "Cornazo (Vilagarcía de Arousa)"
+    },
+    {
+        "id": 1556,
+        "point": {
+            "lng": -7.1066669,
+            "lat": 42.2079736
+        },
+        "category": "verde",
+        "name": "Fornelos de Cova (Viana do Bolo)"
+    },
+    {
+        "id": 110,
+        "point": {
+            "lng": -8.1450235,
+            "lat": 43.6150175
+        },
+        "category": "azul",
+        "name": "Fosa da praia de Frouxeira (Valdoviño)"
+    },
+    {
+        "id": 871,
+        "point": {
+            "lng": -7.42577,
+            "lat": 41.9929028
+        },
+        "category": "default",
+        "name": "Fosa de Campobecerros (Castrelo do Val)"
+    },
+    {
+        "id": 98,
+        "point": {
+            "lng": -7.1339812,
+            "lat": 42.4595263
+        },
+        "category": "vermello",
+        "name": "Fosa de Cereixido (Quiroga)"
+    },
+    {
+        "id": 100,
+        "point": {
+            "lng": -7.6361088,
+            "lat": 43.5567763
+        },
+        "category": "azul",
+        "name": "Fosa de Chao-Candedo (Ourol)"
+    },
+    {
+        "id": 1542,
+        "point": {
+            "lng": -8.15395,
+            "lat": 43.344613
+        },
+        "category": "vermello",
+        "name": "Fosa de Grandal (Vilarmaior)"
+    },
+    {
+        "id": 107,
+        "point": {
+            "lng": -8.6444702,
+            "lat": 42.1998459
+        },
+        "category": "azul",
+        "name": "Fosa de Mos (Mos)"
+    },
+    {
+        "id": 99,
+        "point": {
+            "lng": -6.9801221,
+            "lat": 43.1149886
+        },
+        "category": "vermello",
+        "name": "Fosa de O Acevo (A Fonsagrada)"
+    },
+    {
+        "id": 117,
+        "point": {
+            "lng": -7.8646408,
+            "lat": 42.3400086
+        },
+        "category": "azul",
+        "name": "Fosa de Ourense"
+    },
+    {
+        "id": 111,
+        "point": {
+            "lng": -7.1724318,
+            "lat": 42.0163132
+        },
+        "category": "azul",
+        "name": "Fosa de Poula do Martiño (A Gudiña)"
+    },
+    {
+        "id": 114,
+        "point": {
+            "lng": -7.2890018,
+            "lat": 42.4661888
+        },
+        "category": "azul",
+        "name": "Fosa de Remeite (Ribas de Sil)"
+    },
+    {
+        "id": 106,
+        "point": {
+            "lng": -8.5811087,
+            "lat": 42.4687016
+        },
+        "category": "azul",
+        "name": "Fosa de San Andrés de Xeve (Pontevedra)"
+    },
+    {
+        "id": 102,
+        "point": {
+            "lng": -7.6155181,
+            "lat": 42.8077541
+        },
+        "category": "vermello",
+        "name": "Fosa de San Mamede de Río (Portomarín)"
+    },
+    {
+        "id": 108,
+        "point": {
+            "lng": -8.6242676,
+            "lat": 42.1430416
+        },
+        "category": "azul",
+        "name": "Fosa de San Salvador de Budiño (O Porriño)"
+    },
+    {
+        "id": 103,
+        "point": {
+            "lng": -7.1558762,
+            "lat": 42.6422933
+        },
+        "category": "azul",
+        "name": "Fosa de Seoane do Caurel (Folgoso do Courel)"
+    },
+    {
+        "id": 113,
+        "point": {
+            "lng": -6.984945,
+            "lat": 42.3888259
+        },
+        "category": "azul",
+        "name": "Fosa de Soulecín (O Barco de Valdeorras)"
+    },
+    {
+        "id": 101,
+        "point": {
+            "lng": -7.6155181,
+            "lat": 42.8077541
+        },
+        "category": "vermello",
+        "name": "Fosa de Torrentes-Cortapezas (Portomarín)"
+    },
+    {
+        "id": 109,
+        "point": {
+            "lng": -8.3938806,
+            "lat": 42.9059083
+        },
+        "category": "vermello",
+        "name": "Fosa do Amenal (O Pino)"
+    },
+    {
+        "id": 1539,
+        "point": {
+            "lng": -8.3340987,
+            "lat": 42.9356635
+        },
+        "category": "verde",
+        "name": "Fosa do Amenal (O Pino)"
+    },
+    {
+        "id": 95,
+        "point": {
+            "lng": -8.6469269,
+            "lat": 42.524748
+        },
+        "category": "vermello",
+        "name": "Fosa do Curro (Barro)"
+    },
+    {
+        "id": 112,
+        "point": {
+            "lng": -7.42577,
+            "lat": 41.9929028
+        },
+        "category": "azul",
+        "name": "Fosa do Lombo do Barco (Castrelo do Val)"
+    },
+    {
+        "id": 104,
+        "point": {
+            "lng": -7.4793272,
+            "lat": 42.6262204
+        },
+        "category": "azul",
+        "name": "Fosa en O Incio (O Incio)"
+    },
+    {
+        "id": 105,
+        "point": {
+            "lng": -8.1970024,
+            "lat": 42.2144066
+        },
+        "category": "azul",
+        "name": "Fosas de Filgueiras (Crecente)"
+    },
+    {
+        "id": 1541,
+        "point": {
+            "lng": -8.2230584,
+            "lat": 42.1537374
+        },
+        "category": "vermello",
+        "name": "Fosas de Filgueiras (Crecente)"
+    },
+    {
+        "id": 1555,
+        "point": {
+            "lng": -8.1447804,
+            "lat": 41.9374531
+        },
+        "category": "verde",
+        "name": "Galez (Entrimo)"
+    },
+    {
+        "id": 1546,
+        "point": {
+            "lng": -8.1135539,
+            "lat": 43.3753049
+        },
+        "category": "verde",
+        "name": "Grandal (Vilarmaior)"
+    },
+    {
+        "id": 1553,
+        "point": {
+            "lng": -8.4548628,
+            "lat": 42.2327102
+        },
+        "category": "verde",
+        "name": "Mondariz (Mondariz)"
+    },
+    {
+        "id": 1547,
+        "point": {
+            "lng": -7.3732655,
+            "lat": 43.4575049
+        },
+        "category": "verde",
+        "name": "Mondoñedo (Mondoñedo)"
+    },
+    {
+        "id": 1554,
+        "point": {
+            "lng": -7.3732655,
+            "lat": 43.4575049
+        },
+        "category": "verde",
+        "name": "Mondoñedo (Mondoñedo)"
+    },
+    {
+        "id": 97,
+        "point": {
+            "lng": -7.6729202,
+            "lat": 43.7329645
+        },
+        "category": "vermello",
+        "name": "Monte A Medela (O Vicedo)"
+    },
+    {
+        "id": 1544,
+        "point": {
+            "lng": -8.6353399,
+            "lat": 42.8491666
+        },
+        "category": "verde",
+        "name": "Ortoño (Ames)"
+    },
+    {
+        "id": 1548,
+        "point": {
+            "lng": -7.3732655,
+            "lat": 43.4575049
+        },
+        "category": "verde",
+        "name": "San Pedro de Argomoso (Mondoñedo)"
+    },
+    {
+        "id": 1550,
+        "point": {
+            "lng": -8.836373,
+            "lat": 41.9372462
+        },
+        "category": "verde",
+        "name": "San Xián (O Rosal)"
+    },
+    {
+        "id": 1549,
+        "point": {
+            "lng": -7.9119663,
+            "lat": 42.1563803
+        },
+        "category": "verde",
+        "name": "Sorga (A Bola)"
+    },
+    {
+        "id": 1558,
+        "point": {
+            "lng": -8.5062007,
+            "lat": 42.4894695
+        },
+        "category": "verde",
+        "name": "Tenorio (Cotobade)"
+    },
+    {
+        "id": 1559,
+        "point": {
+            "lng": -8.5569243,
+            "lat": 42.1818182
+        },
+        "category": "verde",
+        "name": "Xinzo (Ponteareas)"
+    },
+    {
+        "id": 1543,
+        "point": {
+            "lng": -8.0710984,
+            "lat": 43.4268409
+        },
+        "category": "verde",
+        "name": "A Capela (A Capela)"
+    },
+    {
+        "id": 1551,
+        "point": {
+            "lng": -8.5327732,
+            "lat": 42.178209
+        },
+        "category": "verde",
+        "name": "Areas (Ponteareas)"
+    },
+    {
+        "id": 1545,
+        "point": {
+            "lng": -7.8476715,
+            "lat": 43.4517973
+        },
+        "category": "verde",
+        "name": "As Pontes de García Rodríguez (As Pontes de García Rodríguez)"
+    },
+    {
+        "id": 1557,
+        "point": {
+            "lng": -8.8536072,
+            "lat": 42.1165614
+        },
+        "category": "verde",
+        "name": "Baiona (Baiona)"
+    },
+    {
+        "id": 1552,
+        "point": {
+            "lng": -8.7659082,
+            "lat": 42.5953513
+        },
+        "category": "verde",
+        "name": "Cornazo (Vilagarcía de Arousa)"
+    },
+    {
+        "id": 1556,
+        "point": {
+            "lng": -7.1066669,
+            "lat": 42.2079736
+        },
+        "category": "verde",
+        "name": "Fornelos de Cova (Viana do Bolo)"
+    },
+    {
+        "id": 110,
+        "point": {
+            "lng": -8.1450235,
+            "lat": 43.6150175
+        },
+        "category": "azul",
+        "name": "Fosa da praia de Frouxeira (Valdoviño)"
+    },
+    {
+        "id": 871,
+        "point": {
+            "lng": -7.42577,
+            "lat": 41.9929028
+        },
+        "category": "default",
+        "name": "Fosa de Campobecerros (Castrelo do Val)"
+    },
+    {
+        "id": 98,
+        "point": {
+            "lng": -7.1339812,
+            "lat": 42.4595263
+        },
+        "category": "vermello",
+        "name": "Fosa de Cereixido (Quiroga)"
+    },
+    {
+        "id": 100,
+        "point": {
+            "lng": -7.6361088,
+            "lat": 43.5567763
+        },
+        "category": "azul",
+        "name": "Fosa de Chao-Candedo (Ourol)"
+    },
+    {
+        "id": 1542,
+        "point": {
+            "lng": -8.15395,
+            "lat": 43.344613
+        },
+        "category": "vermello",
+        "name": "Fosa de Grandal (Vilarmaior)"
+    },
+    {
+        "id": 107,
+        "point": {
+            "lng": -8.6444702,
+            "lat": 42.1998459
+        },
+        "category": "azul",
+        "name": "Fosa de Mos (Mos)"
+    },
+    {
+        "id": 99,
+        "point": {
+            "lng": -6.9801221,
+            "lat": 43.1149886
+        },
+        "category": "vermello",
+        "name": "Fosa de O Acevo (A Fonsagrada)"
+    },
+    {
+        "id": 117,
+        "point": {
+            "lng": -7.8646408,
+            "lat": 42.3400086
+        },
+        "category": "azul",
+        "name": "Fosa de Ourense"
+    },
+    {
+        "id": 111,
+        "point": {
+            "lng": -7.1724318,
+            "lat": 42.0163132
+        },
+        "category": "azul",
+        "name": "Fosa de Poula do Martiño (A Gudiña)"
+    },
+    {
+        "id": 114,
+        "point": {
+            "lng": -7.2890018,
+            "lat": 42.4661888
+        },
+        "category": "azul",
+        "name": "Fosa de Remeite (Ribas de Sil)"
+    },
+    {
+        "id": 106,
+        "point": {
+            "lng": -8.5811087,
+            "lat": 42.4687016
+        },
+        "category": "azul",
+        "name": "Fosa de San Andrés de Xeve (Pontevedra)"
+    },
+    {
+        "id": 102,
+        "point": {
+            "lng": -7.6155181,
+            "lat": 42.8077541
+        },
+        "category": "vermello",
+        "name": "Fosa de San Mamede de Río (Portomarín)"
+    },
+    {
+        "id": 108,
+        "point": {
+            "lng": -8.6242676,
+            "lat": 42.1430416
+        },
+        "category": "azul",
+        "name": "Fosa de San Salvador de Budiño (O Porriño)"
+    },
+    {
+        "id": 103,
+        "point": {
+            "lng": -7.1558762,
+            "lat": 42.6422933
+        },
+        "category": "azul",
+        "name": "Fosa de Seoane do Caurel (Folgoso do Courel)"
+    },
+    {
+        "id": 113,
+        "point": {
+            "lng": -6.984945,
+            "lat": 42.3888259
+        },
+        "category": "azul",
+        "name": "Fosa de Soulecín (O Barco de Valdeorras)"
+    },
+    {
+        "id": 101,
+        "point": {
+            "lng": -7.6155181,
+            "lat": 42.8077541
+        },
+        "category": "vermello",
+        "name": "Fosa de Torrentes-Cortapezas (Portomarín)"
+    },
+    {
+        "id": 109,
+        "point": {
+            "lng": -8.3938806,
+            "lat": 42.9059083
+        },
+        "category": "vermello",
+        "name": "Fosa do Amenal (O Pino)"
+    },
+    {
+        "id": 1539,
+        "point": {
+            "lng": -8.3340987,
+            "lat": 42.9356635
+        },
+        "category": "verde",
+        "name": "Fosa do Amenal (O Pino)"
+    },
+    {
+        "id": 95,
+        "point": {
+            "lng": -8.6469269,
+            "lat": 42.524748
+        },
+        "category": "vermello",
+        "name": "Fosa do Curro (Barro)"
+    },
+    {
+        "id": 112,
+        "point": {
+            "lng": -7.42577,
+            "lat": 41.9929028
+        },
+        "category": "azul",
+        "name": "Fosa do Lombo do Barco (Castrelo do Val)"
+    },
+    {
+        "id": 104,
+        "point": {
+            "lng": -7.4793272,
+            "lat": 42.6262204
+        },
+        "category": "azul",
+        "name": "Fosa en O Incio (O Incio)"
+    },
+    {
+        "id": 105,
+        "point": {
+            "lng": -8.1970024,
+            "lat": 42.2144066
+        },
+        "category": "azul",
+        "name": "Fosas de Filgueiras (Crecente)"
+    },
+    {
+        "id": 1541,
+        "point": {
+            "lng": -8.2230584,
+            "lat": 42.1537374
+        },
+        "category": "vermello",
+        "name": "Fosas de Filgueiras (Crecente)"
+    },
+    {
+        "id": 1555,
+        "point": {
+            "lng": -8.1447804,
+            "lat": 41.9374531
+        },
+        "category": "verde",
+        "name": "Galez (Entrimo)"
+    },
+    {
+        "id": 1546,
+        "point": {
+            "lng": -8.1135539,
+            "lat": 43.3753049
+        },
+        "category": "verde",
+        "name": "Grandal (Vilarmaior)"
+    },
+    {
+        "id": 1553,
+        "point": {
+            "lng": -8.4548628,
+            "lat": 42.2327102
+        },
+        "category": "verde",
+        "name": "Mondariz (Mondariz)"
+    },
+    {
+        "id": 1547,
+        "point": {
+            "lng": -7.3732655,
+            "lat": 43.4575049
+        },
+        "category": "verde",
+        "name": "Mondoñedo (Mondoñedo)"
+    },
+    {
+        "id": 1554,
+        "point": {
+            "lng": -7.3732655,
+            "lat": 43.4575049
+        },
+        "category": "verde",
+        "name": "Mondoñedo (Mondoñedo)"
+    },
+    {
+        "id": 97,
+        "point": {
+            "lng": -7.6729202,
+            "lat": 43.7329645
+        },
+        "category": "vermello",
+        "name": "Monte A Medela (O Vicedo)"
+    },
+    {
+        "id": 1544,
+        "point": {
+            "lng": -8.6353399,
+            "lat": 42.8491666
+        },
+        "category": "verde",
+        "name": "Ortoño (Ames)"
+    },
+    {
+        "id": 1548,
+        "point": {
+            "lng": -7.3732655,
+            "lat": 43.4575049
+        },
+        "category": "verde",
+        "name": "San Pedro de Argomoso (Mondoñedo)"
+    },
+    {
+        "id": 1550,
+        "point": {
+            "lng": -8.836373,
+            "lat": 41.9372462
+        },
+        "category": "verde",
+        "name": "San Xián (O Rosal)"
+    },
+    {
+        "id": 1549,
+        "point": {
+            "lng": -7.9119663,
+            "lat": 42.1563803
+        },
+        "category": "verde",
+        "name": "Sorga (A Bola)"
+    },
+    {
+        "id": 1558,
+        "point": {
+            "lng": -8.5062007,
+            "lat": 42.4894695
+        },
+        "category": "verde",
+        "name": "Tenorio (Cotobade)"
+    },
+    {
+        "id": 1559,
+        "point": {
+            "lng": -8.5569243,
+            "lat": 42.1818182
+        },
+        "category": "verde",
+        "name": "Xinzo (Ponteareas)"
+    },
+    {
+        "id": 1543,
+        "point": {
+            "lng": -8.0710984,
+            "lat": 43.4268409
+        },
+        "category": "verde",
+        "name": "A Capela (A Capela)"
+    },
+    {
+        "id": 1551,
+        "point": {
+            "lng": -8.5327732,
+            "lat": 42.178209
+        },
+        "category": "verde",
+        "name": "Areas (Ponteareas)"
+    },
+    {
+        "id": 1545,
+        "point": {
+            "lng": -7.8476715,
+            "lat": 43.4517973
+        },
+        "category": "verde",
+        "name": "As Pontes de García Rodríguez (As Pontes de García Rodríguez)"
+    },
+    {
+        "id": 1557,
+        "point": {
+            "lng": -8.8536072,
+            "lat": 42.1165614
+        },
+        "category": "verde",
+        "name": "Baiona (Baiona)"
+    },
+    {
+        "id": 1552,
+        "point": {
+            "lng": -8.7659082,
+            "lat": 42.5953513
+        },
+        "category": "verde",
+        "name": "Cornazo (Vilagarcía de Arousa)"
+    },
+    {
+        "id": 1556,
+        "point": {
+            "lng": -7.1066669,
+            "lat": 42.2079736
+        },
+        "category": "verde",
+        "name": "Fornelos de Cova (Viana do Bolo)"
+    },
+    {
+        "id": 110,
+        "point": {
+            "lng": -8.1450235,
+            "lat": 43.6150175
+        },
+        "category": "azul",
+        "name": "Fosa da praia de Frouxeira (Valdoviño)"
+    },
+    {
+        "id": 871,
+        "point": {
+            "lng": -7.42577,
+            "lat": 41.9929028
+        },
+        "category": "default",
+        "name": "Fosa de Campobecerros (Castrelo do Val)"
+    },
+    {
+        "id": 98,
+        "point": {
+            "lng": -7.1339812,
+            "lat": 42.4595263
+        },
+        "category": "vermello",
+        "name": "Fosa de Cereixido (Quiroga)"
+    },
+    {
+        "id": 100,
+        "point": {
+            "lng": -7.6361088,
+            "lat": 43.5567763
+        },
+        "category": "azul",
+        "name": "Fosa de Chao-Candedo (Ourol)"
+    },
+    {
+        "id": 1542,
+        "point": {
+            "lng": -8.15395,
+            "lat": 43.344613
+        },
+        "category": "vermello",
+        "name": "Fosa de Grandal (Vilarmaior)"
+    },
+    {
+        "id": 107,
+        "point": {
+            "lng": -8.6444702,
+            "lat": 42.1998459
+        },
+        "category": "azul",
+        "name": "Fosa de Mos (Mos)"
+    },
+    {
+        "id": 99,
+        "point": {
+            "lng": -6.9801221,
+            "lat": 43.1149886
+        },
+        "category": "vermello",
+        "name": "Fosa de O Acevo (A Fonsagrada)"
+    },
+    {
+        "id": 117,
+        "point": {
+            "lng": -7.8646408,
+            "lat": 42.3400086
+        },
+        "category": "azul",
+        "name": "Fosa de Ourense"
+    },
+    {
+        "id": 111,
+        "point": {
+            "lng": -7.1724318,
+            "lat": 42.0163132
+        },
+        "category": "azul",
+        "name": "Fosa de Poula do Martiño (A Gudiña)"
+    },
+    {
+        "id": 114,
+        "point": {
+            "lng": -7.2890018,
+            "lat": 42.4661888
+        },
+        "category": "azul",
+        "name": "Fosa de Remeite (Ribas de Sil)"
+    },
+    {
+        "id": 106,
+        "point": {
+            "lng": -8.5811087,
+            "lat": 42.4687016
+        },
+        "category": "azul",
+        "name": "Fosa de San Andrés de Xeve (Pontevedra)"
+    },
+    {
+        "id": 102,
+        "point": {
+            "lng": -7.6155181,
+            "lat": 42.8077541
+        },
+        "category": "vermello",
+        "name": "Fosa de San Mamede de Río (Portomarín)"
+    },
+    {
+        "id": 108,
+        "point": {
+            "lng": -8.6242676,
+            "lat": 42.1430416
+        },
+        "category": "azul",
+        "name": "Fosa de San Salvador de Budiño (O Porriño)"
+    },
+    {
+        "id": 103,
+        "point": {
+            "lng": -7.1558762,
+            "lat": 42.6422933
+        },
+        "category": "azul",
+        "name": "Fosa de Seoane do Caurel (Folgoso do Courel)"
+    },
+    {
+        "id": 113,
+        "point": {
+            "lng": -6.984945,
+            "lat": 42.3888259
+        },
+        "category": "azul",
+        "name": "Fosa de Soulecín (O Barco de Valdeorras)"
+    },
+    {
+        "id": 101,
+        "point": {
+            "lng": -7.6155181,
+            "lat": 42.8077541
+        },
+        "category": "vermello",
+        "name": "Fosa de Torrentes-Cortapezas (Portomarín)"
+    },
+    {
+        "id": 109,
+        "point": {
+            "lng": -8.3938806,
+            "lat": 42.9059083
+        },
+        "category": "vermello",
+        "name": "Fosa do Amenal (O Pino)"
+    },
+    {
+        "id": 1539,
+        "point": {
+            "lng": -8.3340987,
+            "lat": 42.9356635
+        },
+        "category": "verde",
+        "name": "Fosa do Amenal (O Pino)"
+    },
+    {
+        "id": 95,
+        "point": {
+            "lng": -8.6469269,
+            "lat": 42.524748
+        },
+        "category": "vermello",
+        "name": "Fosa do Curro (Barro)"
+    },
+    {
+        "id": 112,
+        "point": {
+            "lng": -7.42577,
+            "lat": 41.9929028
+        },
+        "category": "azul",
+        "name": "Fosa do Lombo do Barco (Castrelo do Val)"
+    },
+    {
+        "id": 104,
+        "point": {
+            "lng": -7.4793272,
+            "lat": 42.6262204
+        },
+        "category": "azul",
+        "name": "Fosa en O Incio (O Incio)"
+    },
+    {
+        "id": 105,
+        "point": {
+            "lng": -8.1970024,
+            "lat": 42.2144066
+        },
+        "category": "azul",
+        "name": "Fosas de Filgueiras (Crecente)"
+    },
+    {
+        "id": 1541,
+        "point": {
+            "lng": -8.2230584,
+            "lat": 42.1537374
+        },
+        "category": "vermello",
+        "name": "Fosas de Filgueiras (Crecente)"
+    },
+    {
+        "id": 1555,
+        "point": {
+            "lng": -8.1447804,
+            "lat": 41.9374531
+        },
+        "category": "verde",
+        "name": "Galez (Entrimo)"
+    },
+    {
+        "id": 1546,
+        "point": {
+            "lng": -8.1135539,
+            "lat": 43.3753049
+        },
+        "category": "verde",
+        "name": "Grandal (Vilarmaior)"
+    },
+    {
+        "id": 1553,
+        "point": {
+            "lng": -8.4548628,
+            "lat": 42.2327102
+        },
+        "category": "verde",
+        "name": "Mondariz (Mondariz)"
+    },
+    {
+        "id": 1547,
+        "point": {
+            "lng": -7.3732655,
+            "lat": 43.4575049
+        },
+        "category": "verde",
+        "name": "Mondoñedo (Mondoñedo)"
+    },
+    {
+        "id": 1554,
+        "point": {
+            "lng": -7.3732655,
+            "lat": 43.4575049
+        },
+        "category": "verde",
+        "name": "Mondoñedo (Mondoñedo)"
+    },
+    {
+        "id": 97,
+        "point": {
+            "lng": -7.6729202,
+            "lat": 43.7329645
+        },
+        "category": "vermello",
+        "name": "Monte A Medela (O Vicedo)"
+    },
+    {
+        "id": 1544,
+        "point": {
+            "lng": -8.6353399,
+            "lat": 42.8491666
+        },
+        "category": "verde",
+        "name": "Ortoño (Ames)"
+    },
+    {
+        "id": 1548,
+        "point": {
+            "lng": -7.3732655,
+            "lat": 43.4575049
+        },
+        "category": "verde",
+        "name": "San Pedro de Argomoso (Mondoñedo)"
+    },
+    {
+        "id": 1550,
+        "point": {
+            "lng": -8.836373,
+            "lat": 41.9372462
+        },
+        "category": "verde",
+        "name": "San Xián (O Rosal)"
+    },
+    {
+        "id": 1549,
+        "point": {
+            "lng": -7.9119663,
+            "lat": 42.1563803
+        },
+        "category": "verde",
+        "name": "Sorga (A Bola)"
+    },
+    {
+        "id": 1558,
+        "point": {
+            "lng": -8.5062007,
+            "lat": 42.4894695
+        },
+        "category": "verde",
+        "name": "Tenorio (Cotobade)"
+    },
+    {
+        "id": 1559,
+        "point": {
+            "lng": -8.5569243,
+            "lat": 42.1818182
+        },
+        "category": "verde",
+        "name": "Xinzo (Ponteareas)"
+    },
+    {
+        "id": 1543,
+        "point": {
+            "lng": -8.0710984,
+            "lat": 43.4268409
+        },
+        "category": "verde",
+        "name": "A Capela (A Capela)"
+    },
+    {
+        "id": 1551,
+        "point": {
+            "lng": -8.5327732,
+            "lat": 42.178209
+        },
+        "category": "verde",
+        "name": "Areas (Ponteareas)"
+    },
+    {
+        "id": 1545,
+        "point": {
+            "lng": -7.8476715,
+            "lat": 43.4517973
+        },
+        "category": "verde",
+        "name": "As Pontes de García Rodríguez (As Pontes de García Rodríguez)"
+    },
+    {
+        "id": 1557,
+        "point": {
+            "lng": -8.8536072,
+            "lat": 42.1165614
+        },
+        "category": "verde",
+        "name": "Baiona (Baiona)"
+    },
+    {
+        "id": 1552,
+        "point": {
+            "lng": -8.7659082,
+            "lat": 42.5953513
+        },
+        "category": "verde",
+        "name": "Cornazo (Vilagarcía de Arousa)"
+    },
+    {
+        "id": 1556,
+        "point": {
+            "lng": -7.1066669,
+            "lat": 42.2079736
+        },
+        "category": "verde",
+        "name": "Fornelos de Cova (Viana do Bolo)"
+    },
+    {
+        "id": 110,
+        "point": {
+            "lng": -8.1450235,
+            "lat": 43.6150175
+        },
+        "category": "azul",
+        "name": "Fosa da praia de Frouxeira (Valdoviño)"
+    },
+    {
+        "id": 871,
+        "point": {
+            "lng": -7.42577,
+            "lat": 41.9929028
+        },
+        "category": "default",
+        "name": "Fosa de Campobecerros (Castrelo do Val)"
+    },
+    {
+        "id": 98,
+        "point": {
+            "lng": -7.1339812,
+            "lat": 42.4595263
+        },
+        "category": "vermello",
+        "name": "Fosa de Cereixido (Quiroga)"
+    },
+    {
+        "id": 100,
+        "point": {
+            "lng": -7.6361088,
+            "lat": 43.5567763
+        },
+        "category": "azul",
+        "name": "Fosa de Chao-Candedo (Ourol)"
+    },
+    {
+        "id": 1542,
+        "point": {
+            "lng": -8.15395,
+            "lat": 43.344613
+        },
+        "category": "vermello",
+        "name": "Fosa de Grandal (Vilarmaior)"
+    },
+    {
+        "id": 107,
+        "point": {
+            "lng": -8.6444702,
+            "lat": 42.1998459
+        },
+        "category": "azul",
+        "name": "Fosa de Mos (Mos)"
+    },
+    {
+        "id": 99,
+        "point": {
+            "lng": -6.9801221,
+            "lat": 43.1149886
+        },
+        "category": "vermello",
+        "name": "Fosa de O Acevo (A Fonsagrada)"
+    },
+    {
+        "id": 117,
+        "point": {
+            "lng": -7.8646408,
+            "lat": 42.3400086
+        },
+        "category": "azul",
+        "name": "Fosa de Ourense"
+    },
+    {
+        "id": 111,
+        "point": {
+            "lng": -7.1724318,
+            "lat": 42.0163132
+        },
+        "category": "azul",
+        "name": "Fosa de Poula do Martiño (A Gudiña)"
+    },
+    {
+        "id": 114,
+        "point": {
+            "lng": -7.2890018,
+            "lat": 42.4661888
+        },
+        "category": "azul",
+        "name": "Fosa de Remeite (Ribas de Sil)"
+    },
+    {
+        "id": 106,
+        "point": {
+            "lng": -8.5811087,
+            "lat": 42.4687016
+        },
+        "category": "azul",
+        "name": "Fosa de San Andrés de Xeve (Pontevedra)"
+    },
+    {
+        "id": 102,
+        "point": {
+            "lng": -7.6155181,
+            "lat": 42.8077541
+        },
+        "category": "vermello",
+        "name": "Fosa de San Mamede de Río (Portomarín)"
+    },
+    {
+        "id": 108,
+        "point": {
+            "lng": -8.6242676,
+            "lat": 42.1430416
+        },
+        "category": "azul",
+        "name": "Fosa de San Salvador de Budiño (O Porriño)"
+    },
+    {
+        "id": 103,
+        "point": {
+            "lng": -7.1558762,
+            "lat": 42.6422933
+        },
+        "category": "azul",
+        "name": "Fosa de Seoane do Caurel (Folgoso do Courel)"
+    },
+    {
+        "id": 113,
+        "point": {
+            "lng": -6.984945,
+            "lat": 42.3888259
+        },
+        "category": "azul",
+        "name": "Fosa de Soulecín (O Barco de Valdeorras)"
+    },
+    {
+        "id": 101,
+        "point": {
+            "lng": -7.6155181,
+            "lat": 42.8077541
+        },
+        "category": "vermello",
+        "name": "Fosa de Torrentes-Cortapezas (Portomarín)"
+    },
+    {
+        "id": 109,
+        "point": {
+            "lng": -8.3938806,
+            "lat": 42.9059083
+        },
+        "category": "vermello",
+        "name": "Fosa do Amenal (O Pino)"
+    },
+    {
+        "id": 1539,
+        "point": {
+            "lng": -8.3340987,
+            "lat": 42.9356635
+        },
+        "category": "verde",
+        "name": "Fosa do Amenal (O Pino)"
+    },
+    {
+        "id": 95,
+        "point": {
+            "lng": -8.6469269,
+            "lat": 42.524748
+        },
+        "category": "vermello",
+        "name": "Fosa do Curro (Barro)"
+    },
+    {
+        "id": 112,
+        "point": {
+            "lng": -7.42577,
+            "lat": 41.9929028
+        },
+        "category": "azul",
+        "name": "Fosa do Lombo do Barco (Castrelo do Val)"
+    },
+    {
+        "id": 104,
+        "point": {
+            "lng": -7.4793272,
+            "lat": 42.6262204
+        },
+        "category": "azul",
+        "name": "Fosa en O Incio (O Incio)"
+    },
+    {
+        "id": 105,
+        "point": {
+            "lng": -8.1970024,
+            "lat": 42.2144066
+        },
+        "category": "azul",
+        "name": "Fosas de Filgueiras (Crecente)"
+    },
+    {
+        "id": 1541,
+        "point": {
+            "lng": -8.2230584,
+            "lat": 42.1537374
+        },
+        "category": "vermello",
+        "name": "Fosas de Filgueiras (Crecente)"
+    },
+    {
+        "id": 1555,
+        "point": {
+            "lng": -8.1447804,
+            "lat": 41.9374531
+        },
+        "category": "verde",
+        "name": "Galez (Entrimo)"
+    },
+    {
+        "id": 1546,
+        "point": {
+            "lng": -8.1135539,
+            "lat": 43.3753049
+        },
+        "category": "verde",
+        "name": "Grandal (Vilarmaior)"
+    },
+    {
+        "id": 1553,
+        "point": {
+            "lng": -8.4548628,
+            "lat": 42.2327102
+        },
+        "category": "verde",
+        "name": "Mondariz (Mondariz)"
+    },
+    {
+        "id": 1547,
+        "point": {
+            "lng": -7.3732655,
+            "lat": 43.4575049
+        },
+        "category": "verde",
+        "name": "Mondoñedo (Mondoñedo)"
+    },
+    {
+        "id": 1554,
+        "point": {
+            "lng": -7.3732655,
+            "lat": 43.4575049
+        },
+        "category": "verde",
+        "name": "Mondoñedo (Mondoñedo)"
+    },
+    {
+        "id": 97,
+        "point": {
+            "lng": -7.6729202,
+            "lat": 43.7329645
+        },
+        "category": "vermello",
+        "name": "Monte A Medela (O Vicedo)"
+    },
+    {
+        "id": 1544,
+        "point": {
+            "lng": -8.6353399,
+            "lat": 42.8491666
+        },
+        "category": "verde",
+        "name": "Ortoño (Ames)"
+    },
+    {
+        "id": 1548,
+        "point": {
+            "lng": -7.3732655,
+            "lat": 43.4575049
+        },
+        "category": "verde",
+        "name": "San Pedro de Argomoso (Mondoñedo)"
+    },
+    {
+        "id": 1550,
+        "point": {
+            "lng": -8.836373,
+            "lat": 41.9372462
+        },
+        "category": "verde",
+        "name": "San Xián (O Rosal)"
+    },
+    {
+        "id": 1549,
+        "point": {
+            "lng": -7.9119663,
+            "lat": 42.1563803
+        },
+        "category": "verde",
+        "name": "Sorga (A Bola)"
+    },
+    {
+        "id": 1558,
+        "point": {
+            "lng": -8.5062007,
+            "lat": 42.4894695
+        },
+        "category": "verde",
+        "name": "Tenorio (Cotobade)"
+    },
+    {
+        "id": 1559,
+        "point": {
+            "lng": -8.5569243,
+            "lat": 42.1818182
+        },
+        "category": "verde",
+        "name": "Xinzo (Ponteareas)"
+    },
+    {
+        "id": 1543,
+        "point": {
+            "lng": -8.0710984,
+            "lat": 43.4268409
+        },
+        "category": "verde",
+        "name": "A Capela (A Capela)"
+    },
+    {
+        "id": 1551,
+        "point": {
+            "lng": -8.5327732,
+            "lat": 42.178209
+        },
+        "category": "verde",
+        "name": "Areas (Ponteareas)"
+    },
+    {
+        "id": 1545,
+        "point": {
+            "lng": -7.8476715,
+            "lat": 43.4517973
+        },
+        "category": "verde",
+        "name": "As Pontes de García Rodríguez (As Pontes de García Rodríguez)"
+    },
+    {
+        "id": 1557,
+        "point": {
+            "lng": -8.8536072,
+            "lat": 42.1165614
+        },
+        "category": "verde",
+        "name": "Baiona (Baiona)"
+    },
+    {
+        "id": 1552,
+        "point": {
+            "lng": -8.7659082,
+            "lat": 42.5953513
+        },
+        "category": "verde",
+        "name": "Cornazo (Vilagarcía de Arousa)"
+    },
+    {
+        "id": 1556,
+        "point": {
+            "lng": -7.1066669,
+            "lat": 42.2079736
+        },
+        "category": "verde",
+        "name": "Fornelos de Cova (Viana do Bolo)"
+    },
+    {
+        "id": 110,
+        "point": {
+            "lng": -8.1450235,
+            "lat": 43.6150175
+        },
+        "category": "azul",
+        "name": "Fosa da praia de Frouxeira (Valdoviño)"
+    },
+    {
+        "id": 871,
+        "point": {
+            "lng": -7.42577,
+            "lat": 41.9929028
+        },
+        "category": "default",
+        "name": "Fosa de Campobecerros (Castrelo do Val)"
+    },
+    {
+        "id": 98,
+        "point": {
+            "lng": -7.1339812,
+            "lat": 42.4595263
+        },
+        "category": "vermello",
+        "name": "Fosa de Cereixido (Quiroga)"
+    },
+    {
+        "id": 100,
+        "point": {
+            "lng": -7.6361088,
+            "lat": 43.5567763
+        },
+        "category": "azul",
+        "name": "Fosa de Chao-Candedo (Ourol)"
+    },
+    {
+        "id": 1542,
+        "point": {
+            "lng": -8.15395,
+            "lat": 43.344613
+        },
+        "category": "vermello",
+        "name": "Fosa de Grandal (Vilarmaior)"
+    },
+    {
+        "id": 107,
+        "point": {
+            "lng": -8.6444702,
+            "lat": 42.1998459
+        },
+        "category": "azul",
+        "name": "Fosa de Mos (Mos)"
+    },
+    {
+        "id": 99,
+        "point": {
+            "lng": -6.9801221,
+            "lat": 43.1149886
+        },
+        "category": "vermello",
+        "name": "Fosa de O Acevo (A Fonsagrada)"
+    },
+    {
+        "id": 117,
+        "point": {
+            "lng": -7.8646408,
+            "lat": 42.3400086
+        },
+        "category": "azul",
+        "name": "Fosa de Ourense"
+    },
+    {
+        "id": 111,
+        "point": {
+            "lng": -7.1724318,
+            "lat": 42.0163132
+        },
+        "category": "azul",
+        "name": "Fosa de Poula do Martiño (A Gudiña)"
+    },
+    {
+        "id": 114,
+        "point": {
+            "lng": -7.2890018,
+            "lat": 42.4661888
+        },
+        "category": "azul",
+        "name": "Fosa de Remeite (Ribas de Sil)"
+    },
+    {
+        "id": 106,
+        "point": {
+            "lng": -8.5811087,
+            "lat": 42.4687016
+        },
+        "category": "azul",
+        "name": "Fosa de San Andrés de Xeve (Pontevedra)"
+    },
+    {
+        "id": 102,
+        "point": {
+            "lng": -7.6155181,
+            "lat": 42.8077541
+        },
+        "category": "vermello",
+        "name": "Fosa de San Mamede de Río (Portomarín)"
+    },
+    {
+        "id": 108,
+        "point": {
+            "lng": -8.6242676,
+            "lat": 42.1430416
+        },
+        "category": "azul",
+        "name": "Fosa de San Salvador de Budiño (O Porriño)"
+    },
+    {
+        "id": 103,
+        "point": {
+            "lng": -7.1558762,
+            "lat": 42.6422933
+        },
+        "category": "azul",
+        "name": "Fosa de Seoane do Caurel (Folgoso do Courel)"
+    },
+    {
+        "id": 113,
+        "point": {
+            "lng": -6.984945,
+            "lat": 42.3888259
+        },
+        "category": "azul",
+        "name": "Fosa de Soulecín (O Barco de Valdeorras)"
+    },
+    {
+        "id": 101,
+        "point": {
+            "lng": -7.6155181,
+            "lat": 42.8077541
+        },
+        "category": "vermello",
+        "name": "Fosa de Torrentes-Cortapezas (Portomarín)"
+    },
+    {
+        "id": 109,
+        "point": {
+            "lng": -8.3938806,
+            "lat": 42.9059083
+        },
+        "category": "vermello",
+        "name": "Fosa do Amenal (O Pino)"
+    },
+    {
+        "id": 1539,
+        "point": {
+            "lng": -8.3340987,
+            "lat": 42.9356635
+        },
+        "category": "verde",
+        "name": "Fosa do Amenal (O Pino)"
+    },
+    {
+        "id": 95,
+        "point": {
+            "lng": -8.6469269,
+            "lat": 42.524748
+        },
+        "category": "vermello",
+        "name": "Fosa do Curro (Barro)"
+    },
+    {
+        "id": 112,
+        "point": {
+            "lng": -7.42577,
+            "lat": 41.9929028
+        },
+        "category": "azul",
+        "name": "Fosa do Lombo do Barco (Castrelo do Val)"
+    },
+    {
+        "id": 104,
+        "point": {
+            "lng": -7.4793272,
+            "lat": 42.6262204
+        },
+        "category": "azul",
+        "name": "Fosa en O Incio (O Incio)"
+    },
+    {
+        "id": 105,
+        "point": {
+            "lng": -8.1970024,
+            "lat": 42.2144066
+        },
+        "category": "azul",
+        "name": "Fosas de Filgueiras (Crecente)"
+    },
+    {
+        "id": 1541,
+        "point": {
+            "lng": -8.2230584,
+            "lat": 42.1537374
+        },
+        "category": "vermello",
+        "name": "Fosas de Filgueiras (Crecente)"
+    },
+    {
+        "id": 1555,
+        "point": {
+            "lng": -8.1447804,
+            "lat": 41.9374531
+        },
+        "category": "verde",
+        "name": "Galez (Entrimo)"
+    },
+    {
+        "id": 1546,
+        "point": {
+            "lng": -8.1135539,
+            "lat": 43.3753049
+        },
+        "category": "verde",
+        "name": "Grandal (Vilarmaior)"
+    },
+    {
+        "id": 1553,
+        "point": {
+            "lng": -8.4548628,
+            "lat": 42.2327102
+        },
+        "category": "verde",
+        "name": "Mondariz (Mondariz)"
+    },
+    {
+        "id": 1547,
+        "point": {
+            "lng": -7.3732655,
+            "lat": 43.4575049
+        },
+        "category": "verde",
+        "name": "Mondoñedo (Mondoñedo)"
+    },
+    {
+        "id": 1554,
+        "point": {
+            "lng": -7.3732655,
+            "lat": 43.4575049
+        },
+        "category": "verde",
+        "name": "Mondoñedo (Mondoñedo)"
+    },
+    {
+        "id": 97,
+        "point": {
+            "lng": -7.6729202,
+            "lat": 43.7329645
+        },
+        "category": "vermello",
+        "name": "Monte A Medela (O Vicedo)"
+    },
+    {
+        "id": 1544,
+        "point": {
+            "lng": -8.6353399,
+            "lat": 42.8491666
+        },
+        "category": "verde",
+        "name": "Ortoño (Ames)"
+    },
+    {
+        "id": 1548,
+        "point": {
+            "lng": -7.3732655,
+            "lat": 43.4575049
+        },
+        "category": "verde",
+        "name": "San Pedro de Argomoso (Mondoñedo)"
+    },
+    {
+        "id": 1550,
+        "point": {
+            "lng": -8.836373,
+            "lat": 41.9372462
+        },
+        "category": "verde",
+        "name": "San Xián (O Rosal)"
+    },
+    {
+        "id": 1549,
+        "point": {
+            "lng": -7.9119663,
+            "lat": 42.1563803
+        },
+        "category": "verde",
+        "name": "Sorga (A Bola)"
+    },
+    {
+        "id": 1558,
+        "point": {
+            "lng": -8.5062007,
+            "lat": 42.4894695
+        },
+        "category": "verde",
+        "name": "Tenorio (Cotobade)"
+    },
+    {
+        "id": 1559,
+        "point": {
+            "lng": -8.5569243,
+            "lat": 42.1818182
+        },
+        "category": "verde",
+        "name": "Xinzo (Ponteareas)"
+    }
+]
